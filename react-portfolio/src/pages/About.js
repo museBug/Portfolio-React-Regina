@@ -1,8 +1,9 @@
 import React from "react";
-import Hero from "../components/Hero";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
+import Footer from  "../components/Footer/footer";
+import Navbar from "../components/Navbar/navigation";
 
 function About() {
   return (
