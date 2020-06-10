@@ -2,16 +2,14 @@ import React from "react";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
-import Footer from  "../components/Footer/footer";
-import Navbar from "../components/Navbar/navigation";
+import Front from "../components/Front";
 
 function About() {
   return (
     <div>
-      <Hero backgroundImage="https://i.imgur.com/qkdpN.jpg">
-        <h1>Pupster</h1>
-        <h2>They're the Good Boys and Girls</h2>
-      </Hero>
+      <Front backgroundImage="">
+        <h1>Portfolio</h1>
+      </Front>
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
