@@ -7,7 +7,7 @@ Updated Portfolio with using React.js.
 
 ![](react-portfolio/src/assets/images/profile.png)
 
-## Deployed app: 
+## Deployed app:  https://antidetka.github.io/Portfolio-React-Regina/
             
 
 ## License
