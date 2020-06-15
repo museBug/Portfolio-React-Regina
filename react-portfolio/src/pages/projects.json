@@ -1,0 +1,44 @@
+[
+    {
+        "name":"Travels App",
+        "description":"Using this application travels could find out the main information about the city, the current weather, events, and location to stop by.",
+        "repo":"https://github.com/nrlong/travelerApp",
+        "deployed":"https://nrlong.github.io/travelerApp/",
+        "technologies":"Semantic-ui, Google maps API, OpenWeather API, Eventbrite API"
+    },
+    {
+        "name":"React-Employee-Directory",
+        "description":"Filters and Sorts JSON Data using React. Responsibilities included developing front end and creating logic for mapping and rendering JSON",
+        "repo":"https://github.com/Antidetka/React-Employee-Directory",
+        "deployed":"https://antidetka.github.io/React-Employee-Directory/",
+        "technologies":"React, Bootstrap, JSON, Node, Randomuser API"
+    },
+    {
+        "name":"Hospitality",
+        "description":"Hospitality is a healthcare portal for medical professionals to add, store and update patient records in a simple way. It is also tracks current treats such as the Corona virus.",
+        "repo":"https://github.com/dsarra1018/Project2",
+        "deployed":" https://hospitality-1.herokuapp.com/",
+        "technologies":"Bootstrap, Node, Express, MySQL, Sequelize"
+    },
+    {
+        "name":"Progressive Budget",
+        "description":"The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.",
+        "repo":"https://github.com/Antidetka/-Progressive-Budget",
+        "deployed":" https://young-cliffs-06002.herokuapp.com/",
+        "technologies":"Express, Mongoose, Heroku, Node"
+    },
+    {  
+        "name":"Weather Dashboard",
+        "description":"Dashboard utilizing Open Weather API to display information on One Day & Five Day forecasts as well as the UV Index.Responsibilities included developing a script for AJAX calls to OpenWeather APIs and dynamic HTML generation as well as front end developmen",
+        "repo":"https://github.com/Antidetka/Weather-Dashboard",
+        "deployed":"https://antidetka.github.io/Weather-Dashboard/",
+        "technologies":"JavaScript, Boostrap, OpenWeather API, AJAX and jQuery"
+    },
+    {  
+        "name":"Burger",
+        "description":"A restaurant app that lets users input the names of burgers they'd like to eat.",
+        "repo":"https://github.com/Antidetka/Burger",
+        "deployed":"https://fast-everglades-77602.herokuapp.com/",
+        "technologies":"MySQL, Express, Handlebars, Node and a homemade ORM"
+    }
+]

@@ -1,34 +1,38 @@
-import React from "react";
-import Container from "../components/Container/index";
-import Row from "../components/Row/index";
-import Col from "../components/Col/index";
-import Navbar from "../components/Navbar/index"
-import Footer from "../components/Footer/index"
+import React, {Component} from "react";
+import Container from "../components/Container";
+import Row from "../components/Row";
+import Col from "../components/Col";
+import Project from "../components/Project";
+import projects from "./projects.json";
 
-function Project() {
-  return (
-    <div>
-      <Navbar />
-      <Container style={{ marginTop: 30 }}>
-        <Row>
-          <Col size="md-12">
-              <Project />
-          </Col>
-        </Row>
-        <Row>
-          <Col size="md-12">
-            <Project />
-          </Col>
-        </Row>
-        <Row>
-          <Col size="md-12">
-            <Project />
-          </Col>
-      </Row> 
-      </Container>
-      <Footer sticky={false}/>
-    </div>
-  );
+class Projects extends Component {
+  state = {
+    projects
+  }
+  
+  render() {
+    return (
+      <div>
+       
+        <Container style={{ marginTop: 30 }}>
+          {this.state.projects.map(project=> (
+            <Row>
+                <Col size="md-12">
+                    <Project
+                      name={project.name}
+                      description={project.description}
+                      repo={project.repo}
+                      deployed={project.deployed}
+                      technologies={project.technologies}
+                    />
+                </Col>
+            </Row>
+          ))}   
+        </Container>
+      </div>
+    
+    );
+  }
 }
 
-export default Project;
+export default Projects;
