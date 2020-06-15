@@ -10,18 +10,6 @@ function Navbar() {
         <ul className="navbar-nav d-flex justify-content-center ">
           <li className="nav-item h4">
             <Link
-              to="/"
-              className={
-                window.location.pathname === "/" 
-                  ? "nav-link active light-color-text"
-                  : "nav-link text-muted"
-              }
-            >
-              Home
-            </Link>
-          </li>
-          <li className="nav-item h4">
-            <Link
               to="about"
               className={
                 window.location.pathname === "/about"
