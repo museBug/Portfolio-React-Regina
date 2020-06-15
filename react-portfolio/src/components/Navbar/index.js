@@ -8,6 +8,7 @@ function Navbar() {
     <nav className="navbar dark-color-background navbar-expand shadow-sm px-2">
       <div className="container d-inline-block">
         <ul className="navbar-nav d-flex justify-content-center ">
+
           <li className="nav-item h4">
             <Link
               to="about"
