@@ -5,7 +5,7 @@
 Updated Portfolio with using React.js.
 
 
-![](./src/assets/images/profile.png)
+![](react-portfolio/src/assets/images/profile.png)
 
 ## Deployed app: 
             
