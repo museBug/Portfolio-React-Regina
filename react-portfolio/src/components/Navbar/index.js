@@ -34,16 +34,7 @@ function Navbar() {
             </Link>
           </li>
           <li className="nav-item h4">
-            <Link
-              to="/contact"
-              className={
-                window.location.pathname === "/contact" 
-                  ? "nav-link active light-color-text"
-                  : "nav-link text-muted"
-              }
-            >
-              Contact
-            </Link>
+           
           </li>
           <a className="navbar-brand ml-3 mt-1" href="mailto:musovirova@yahoo.com"><span className="email-icon"><i className="fas fa-envelope fa-lg"></i></span></a>
             
