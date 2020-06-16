@@ -1,6 +1,6 @@
-{ 
+{
   "homepage": "http://antidetka.github.io/Portfolio-React-Regina",
-  "name": "react-portfolio",
+  "name": "portfolio-react-regina",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
