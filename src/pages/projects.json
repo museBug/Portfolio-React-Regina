@@ -40,5 +40,13 @@
         "repo":"https://github.com/Antidetka/Burger",
         "deployed":"https://fast-everglades-77602.herokuapp.com/",
         "technologies":"MySQL, Express, Handlebars, Node and a homemade ORM"
+    },
+    {  
+        "name":"Google Books Search",
+        "description":"React-based Google Books Search app",
+        "repo":"https://github.com/Antidetka/Google-Books-Search",
+        "deployed":"https://morning-retreat-50855.herokuapp.com",
+        "technologies":"MongoDB, Express, React, Node"
     }
+
 ]
