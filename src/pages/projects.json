@@ -1,17 +1,10 @@
 [
     {
-        "name":"Travels App",
-        "description":"Using this application travels could find out the main information about the city, the current weather, events, and location to stop by.",
-        "repo":"https://github.com/nrlong/travelerApp",
-        "deployed":"https://nrlong.github.io/travelerApp/",
-        "technologies":"Semantic-ui, Google maps API, OpenWeather API, Eventbrite API"
-    },
-    {
-        "name":"React-Employee-Directory",
-        "description":"Filters and Sorts JSON Data using React. Responsibilities included developing front end and creating logic for mapping and rendering JSON",
-        "repo":"https://github.com/Antidetka/React-Employee-Directory",
-        "deployed":"https://antidetka.github.io/React-Employee-Directory/",
-        "technologies":"React, Bootstrap, JSON, Node, Randomuser API"
+        "name":"Meme Myself, and I",
+        "description":"An app that lets users overlay text onto images, renders said output to be downloaded to user’s device or save new templates to the local database for future use.",
+        "repo":"https://github.com/Linkm1993/Project-3",
+        "deployed":"https://powerful-taiga-38043.herokuapp.com",
+        "technologies":"HTML2Canvas, React, Captcha, Bootstrap, Express, Mongo & Mongoose, Heroku, Node"
     },
     {
         "name":"Hospitality",
@@ -21,11 +14,18 @@
         "technologies":"Bootstrap, Node, Express, MySQL, Sequelize"
     },
     {
-        "name":"Progressive Budget",
-        "description":"The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.",
-        "repo":"https://github.com/Antidetka/-Progressive-Budget",
-        "deployed":" https://young-cliffs-06002.herokuapp.com/",
-        "technologies":"Express, Mongoose, Heroku, Node"
+        "name":"Traveler",
+        "description":"Using this application travels could find out the main information about the city, the current weather, events, and location to stop by.",
+        "repo":"https://github.com/nrlong/travelerApp",
+        "deployed":"https://nrlong.github.io/travelerApp/",
+        "technologies":"Bootstrap, Google maps API, OpenWeather API, Eventbrite API"
+    },
+    {
+        "name":"React-Employee-Directory",
+        "description":"Filters and Sorts JSON Data using React. Responsibilities included developing front end and creating logic for mapping and rendering JSON",
+        "repo":"https://github.com/Antidetka/React-Employee-Directory",
+        "deployed":"https://antidetka.github.io/React-Employee-Directory/",
+        "technologies":"React, Bootstrap, JSON, Node, Randomuser API"
     },
     {  
         "name":"Weather Dashboard",

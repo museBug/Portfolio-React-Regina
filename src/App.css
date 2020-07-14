@@ -1,6 +1,11 @@
 
+img {
+  margin-bottom: 20px;
+}
 
-.App {
+i {
+  margin-bottom: 30px;
+  margin-left: 30px;
   text-align: center;
 }
 
@@ -15,7 +20,7 @@
 }
 
 i {
-  margin-left: 35px;
+  
 }
 .avatar-img {
   height: 250px;

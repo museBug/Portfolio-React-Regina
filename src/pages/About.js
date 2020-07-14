@@ -10,9 +10,11 @@ function About() {
     <Container style={{ marginTop: 30, marginBottom:30 }}>
     <div>
       <Row>
+        <Col size="md-4"> 
         <div className= "col-md-4 d-flex justify-content-center">
         <img src={regina} className=" img rounded shadow-lg" alt="Profile"/>
-        </div>
+       </div>
+       </Col> 
         <Col size="md-8">
         <div className="card">
           <div className="card-body">
