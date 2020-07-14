@@ -1,5 +1,6 @@
 
 img {
+  margin-left: 20px;
   margin-bottom: 20px;
 }
 
@@ -9,19 +10,21 @@ i {
   text-align: center;
 }
 
-.card-text {
+.card-body {
   margin-bottom: 40px;
   margin-top: 20px;
   text-align: center;
+  font-family: "montserrat", sans-serif;
+
 }
 
 .card-title {
   text-align: center;
-}
-
-i {
+  font-family: "montserrat", sans-serif;
+  font-weight: 550;
   
 }
+
 .avatar-img {
   height: 250px;
   margin-bottom: 30px;

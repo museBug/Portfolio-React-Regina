@@ -19,9 +19,9 @@ function About() {
         <div className="card">
           <div className="card-body">
             <h4 className="card-title">Regina Musovirova</h4>
-            <p className="card-text">I'm a new web developer and currently staying in Baltimore,MD.
-            I'm a person who has high passion in design technologies, art and web development.
-            One of my dreams is to master websites and become one of the TOP web developers in the world,and now I am working toward it!</p>
+            <p className="card-text">Junior Full Stack Developer utilizing a background in Economic
+              Education for flexible problem solving. On the other hand, expert in cake business but has high passion in design technologies, art and web development and currently staying in Baltimore, MD.
+              One of my dreams is to master websites and become one of the TOP web developers in the world,and now I am working toward it!</p>
             <a href="mailto:musovirova@yahoo.com" className="card-link dark-color"><i className="fas fa-envelope fa-5x"></i></a>
             <a href="https://www.linkedin.com/in/regina-musovirova-8b821219a/" className="card-link dark-color"><i className="fab fa-linkedin-in fa-5x"></i></a>
             <a href="https://github.com/antidetka" className="card-link dark-color"><i className="fab fa-github fa-5x"></i></a>
