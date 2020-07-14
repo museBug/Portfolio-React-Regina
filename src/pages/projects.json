@@ -1,6 +1,6 @@
 [
     {
-        "name":"Meme Myself, and I",
+        "name":"Meme, Myself, and I",
         "description":"An app that lets users overlay text onto images, renders said output to be downloaded to user’s device or save new templates to the local database for future use.",
         "repo":"https://github.com/Linkm1993/Project-3",
         "deployed":"https://powerful-taiga-38043.herokuapp.com",
