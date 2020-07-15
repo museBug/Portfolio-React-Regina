@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Portfolio-React-Regina/static/css/main.a51d84e2.chunk.css",
-    "main.js": "/Portfolio-React-Regina/static/js/main.e2960c8a.chunk.js",
-    "main.js.map": "/Portfolio-React-Regina/static/js/main.e2960c8a.chunk.js.map",
-    "runtime-main.js": "/Portfolio-React-Regina/static/js/runtime-main.79e10743.js",
-    "runtime-main.js.map": "/Portfolio-React-Regina/static/js/runtime-main.79e10743.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/Portfolio-React-Regina/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.c73e4709.chunk.js": "/Portfolio-React-Regina/static/js/2.c73e4709.chunk.js",
-    "static/js/2.c73e4709.chunk.js.map": "/Portfolio-React-Regina/static/js/2.c73e4709.chunk.js.map",
-    "index.html": "/Portfolio-React-Regina/index.html",
-    "precache-manifest.f86358933e474626ba1072514f0c330d.js": "/Portfolio-React-Regina/precache-manifest.f86358933e474626ba1072514f0c330d.js",
-    "service-worker.js": "/Portfolio-React-Regina/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/Portfolio-React-Regina/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.a51d84e2.chunk.css.map": "/Portfolio-React-Regina/static/css/main.a51d84e2.chunk.css.map",
-    "static/js/2.c73e4709.chunk.js.LICENSE.txt": "/Portfolio-React-Regina/static/js/2.c73e4709.chunk.js.LICENSE.txt",
-    "static/media/Resume_Regina.pdf": "/Portfolio-React-Regina/static/media/Resume_Regina.d63be0f6.pdf",
-    "static/media/regina.png": "/Portfolio-React-Regina/static/media/regina.6f2acab7.png"
+    "main.css": "/static/css/main.a51d84e2.chunk.css",
+    "main.js": "/static/js/main.f76cd68b.chunk.js",
+    "main.js.map": "/static/js/main.f76cd68b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.659535d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.659535d1.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.dec40346.chunk.js": "/static/js/2.dec40346.chunk.js",
+    "static/js/2.dec40346.chunk.js.map": "/static/js/2.dec40346.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b5e3f509e4e98870cc7114b66106c916.js": "/precache-manifest.b5e3f509e4e98870cc7114b66106c916.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.a51d84e2.chunk.css.map": "/static/css/main.a51d84e2.chunk.css.map",
+    "static/js/2.dec40346.chunk.js.LICENSE.txt": "/static/js/2.dec40346.chunk.js.LICENSE.txt",
+    "static/media/Resume_Regina.pdf": "/static/media/Resume_Regina.498ee2c5.pdf",
+    "static/media/regina.png": "/static/media/regina.6f2acab7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.79e10743.js",
+    "static/js/runtime-main.659535d1.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.c73e4709.chunk.js",
+    "static/js/2.dec40346.chunk.js",
     "static/css/main.a51d84e2.chunk.css",
-    "static/js/main.e2960c8a.chunk.js"
+    "static/js/main.f76cd68b.chunk.js"
   ]
 }
