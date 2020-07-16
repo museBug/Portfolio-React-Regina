@@ -13,7 +13,7 @@ function App() {
       <div>
         <Navbar />
         <Switch>
-        <Route exact path="/Portfolio-React-Regina" component={About} />
+        <Route exact path="/" component={About} />
         <Route  path = "/about" component={About} />
         <Route  path = "/projects" component={Projects} />
         </Switch>
