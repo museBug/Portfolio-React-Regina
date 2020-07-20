@@ -7,7 +7,7 @@ Updated Portfolio with using React.js.
 
 ![](src/assets/images/profile.png)
 
-## Deployed app:  https://salty-woodland-81036.herokuapp.com
+## Deployed app:   https://antidetka.github.io/Portfolio-React-Regina/
             
 
 ## License
